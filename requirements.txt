@@ -1,0 +1,16 @@
+kaggle
+h5py
+joblib
+tensorflow-gpu==1.10
+keras
+numpy
+pandas
+python-dateutil
+pytz
+PyYAML
+scikit-learn
+scipy
+six
+sklearn
+pydicom
+opencv-python
